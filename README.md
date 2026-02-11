@@ -1,3 +1,5 @@
+# LazyLLaMA
+
 Lazyllama is a straightforward, dependable command-line utility designed to streamline the process of supervised fine-tuning (SFT) using LoRA adapters with the LLaMA-Factory framework. Its core purpose is to make the fine-tuning experience less cumbersome and consistently repeatable.
 
 ### What Lazyllama Handles
